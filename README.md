@@ -2,8 +2,6 @@
 
 Unsupervised learning project segmenting English Premier League fantasy players into performance tiers, to support dynamic pricing on a fantasy sports platform (OnSports).
 
-> This notebook previously lived inside the `adventure-works-profitability-analysis-SQL` repo by mistake. It has been moved here into its own dedicated repository.
-
 ## Context
 
 Fantasy sports platforms let users draft virtual teams of real players, who earn fantasy points based on real-world match performance. OnSports, a fantasy sports platform, wants to use last season's Premier League data to set player prices for the upcoming season.
